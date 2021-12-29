@@ -1,1 +1,1 @@
-println "main branch : hello world"
+println "main branch : hello world in B branch"
